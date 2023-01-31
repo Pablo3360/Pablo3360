@@ -1,7 +1,7 @@
- # Hola! Mi nombre es Pablo Gomez
+# Hola! Mi nombre es Pablo Gomez
  
 ## ¿Quién soy? 
-Soy un **Programador Web Full Stack** y de profesion base Ingeniero Industrial.
+Soy un **Programador Web Full Stack** y de profesion base **Ingeniero Industrial**.
 
 ## ¿Qué tecnologías uso?
 

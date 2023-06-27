@@ -8,7 +8,7 @@ Soy un **Programador Web Full Stack** y de profesion base **Ingeniero Industrial
 
 Claramente incluyendo **HTML** y **CSS**
 
-He trabajado con **Material UI** y Metodologia Agil **SCRUM**.
+Experiencia trabajando con Metodologia Agil **SCRUM**.
 
 ### No dudes en contactarme! 
 Juntos podemos realizar un gran proyecto

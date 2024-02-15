@@ -4,9 +4,11 @@ Soy un **Programador Web Full Stack** y de profesion base **Ingeniero Industrial
 
 ## ¿Qué tecnologías uso?
 
-**Javascript**, **React**, **Redux**, **Node.js**, **Express**, **PostgresSQL**, **MySQL**, **Sequelize**, **Git**, **GitHub**.
+**Javascript**, **React**, **TailWind**, **Redux**, **Node.js**, **Express**, **PostgresSQL**, **MySQL**, **Sequelize**, **Prisma**, **Git**, **GitHub**.
 
 Claramente incluyendo **HTML** y **CSS**
+
+Tambien me encuentro trabajando en flojos de trabajo que utilizan servicios de Google Calendar, WhatsApp Api Cloud, Amazon Rekognition y Amazon Textract.
 
 Experiencia trabajando con Metodologia Agil **SCRUM**.
 

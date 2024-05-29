@@ -8,11 +8,11 @@ Soy un **Programador Web Full Stack** y de profesion base **Ingeniero Industrial
 
 Claramente incluyendo **HTML** y **CSS**.
 
-Me apasiona dineñar soluciones que integren diferentes servicios de Google, WhatsApp Api Cloud, Amazon Rekognition, Amazon Textract, etc.
+Diseño soluciones que integren diferentes servicios de Google, WhatsApp Api Cloud, Amazon Rekognition, Amazon Textract, etc.
 
 Experiencia trabajando con Metodologia Agil **SCRUM**
 
-### No dudes en contactarme! 
+### Ponte en contacto conmigo! 
 Juntos podemos realizar un gran proyecto
 
 [Linkedin](https://www.linkedin.com/in/pablogomez3360)
